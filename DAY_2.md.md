@@ -66,7 +66,7 @@ Types of Distros
    - Red hat 
    - Gentoo
    - Android
-# [[KALI LINUX]]
+# KALI LINUX
 #Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
 
 - Desktop Env: xfce
@@ -83,7 +83,7 @@ Types of Distros
 - Package Manager: pacman
 - shell: fish
 [Windows is not an open source so there won't be any other kind of DISTROS]
-## how to use os
+## How to use os
 1. Main os /Main- boot
 2. Dual Boot 
 3. live Boot

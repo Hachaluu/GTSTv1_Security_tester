@@ -2,30 +2,50 @@ Linux For User
 # Overview of kali linux
 1. Information gathering
 ● Tools for information gathering, in system, network, host
+Maltego
+Nmap
+Spider Foot
 2) Vulnerability Analysis
 ● Tools for Finding Vulnerabilities
+nikto
 3) Web Application Analysis
 ● Tools for Finding Vulnerabilities and exploits on websites.
+Sql map
+zap wpscan
+burpsuit
 4) Database Assessment
 ● Tools for Finding Vulnerabilities and exploits on Databases.
+Jsql injection
 5) Password Attacks
-● Tools for exploiting Passwords for login, websites, application, windows..
+● Tools for exploiting Passwords for login, websites, application, windows....
+ncrack
 6) Wireless Attacks
 ● Tools for exploiting Wireless Systems like wifi, bluetooth..
+Aircrack-ng 
+wifite 
 7) Reverse Engineering
 ● Tools for exploiting Soft wares, Mobile Applications and any binary files
+apk tool
 8) Exploitation Tools
 ● Tools for exploiting Soft wares, Mobile ,Computers ,websites and any things
+armitag 
+metasploit
 9) Sniffing & Spoofing
 ● Tools for Listening or hijacking networks
+hamster
 10) POST exploitation
 ● Tools for Maintaining our access. Used after exploiting a system
+mimikat2
+backdoor
 11) Forensics
 ● Tools for Doing researches and investigate a Cyber Attacks.
+binwalk
+autopsy
 12) Reporting tools
 ● Tools for Report preparation. After some forensic you will get data and you will write report and these tools will help you.
 13) Social Engineering tools
 ● Tools Used for Social Engineering attacks
+beef
 14) System Services
 ● Buttons used to start some services.
 15) Usually used applications
@@ -81,9 +101,9 @@ They are small programs that do one task well. these are:
         The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern.
          grep -i (file)
          grep -c (count number)
-         grep -l (displays foldername)
+         grep -l (displays folder name)
          grep -v (text in folder)
-         grep -n  ()
+         grep -n  (term)
     - wc -word count
         wc -l   - line
         wc -w  -word
